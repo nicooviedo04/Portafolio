@@ -242,7 +242,7 @@ html {
 }
 
 .habilidades .contenido-seccion .barra .e {
-  background-color: #363636;
+  background-color: #e6e6e6 /*#363636*/;
   width: 20px;
   height: 30px;
   margin-right: 2px;
